@@ -1,6 +1,6 @@
 # WST2 · Activity 2 – Role-Based Dashboard
 
-**Name:** Rey Anthony Dahunog · **Section:** 4C
+**Name:** Rey Anthony E. Dahunog · **Section:** BS Info Tech 4C
 
 Extends Activity 1 (secure login) with three roles – **admin, instructor, student** – and protects every page on the server. Deny by default.
 
